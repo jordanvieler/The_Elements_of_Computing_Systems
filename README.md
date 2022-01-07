@@ -12,6 +12,6 @@ Thus far, I have:
    - Integrated CPU, Memory and ROM into a Computer
 2. Implemented multiplication and I/O routines in the HACK machine language
 
-***All from primitive NAND gates and D Flip Flops***
+***All from primitive NAND gates and D Flip Flops!***
 
-This repo serves as an archive of my learning experiences from completing these projects
+This repo serves as an archive of these completed projects.

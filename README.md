@@ -5,7 +5,7 @@ To gain a first principles understanding about how computers fundementally work,
 Thus far, I have:
 1. Completed the HACK computer platfrom in Hardware Description Language (HDL)
    - Built basic logic gates from NAND primitives
-   - mplemented an ALU
+   - implemented an ALU
    - Constructed RAM16K and a PC from D-Flip-Flop Primitives
    - Constructed a CPU and Memory Chips
    - Integrated CPU, Memory and ROM into a Computer

@@ -9,32 +9,32 @@ and Or given by it's canonical representation. In turn And, Not, and Or can be i
 
 ## Circuit Diagrams:
 
-### Not
+### [Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### And
+### [And](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Or
+### [Or](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Xor
+### [Xor](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Mux
+### [Mux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### DMux
+### [DMux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Not16
+### [Not16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### And16
+### [And16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Or16
+### [Or16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Mux16
+### [Mux16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Or8way
+### [Or8way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Mux4Way
+### [Mux4Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Mux8Way16
+### Mux8Way16(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### DMux4Way
+### DMux4Way(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### DMu8Way
+### DMu8Way(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)

@@ -1,1 +1,7 @@
+# Machine Language
+In this project I implemented routines to [multiply two integers]() and an [I/O]() routine in assembly language for the HACK computer. The assembly language .asm files were converted to binary .hack machine language files to be ran on the HACK computer.
+
+For the I/O routine, screen pixels are darkened from left to right and down across the screen in sequential order when any keyboard key is held. When the key is released, the pixels are lightened from the last pixel to be darkened from right to left and up.  
+
+##Key Takeaways:
 

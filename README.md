@@ -4,10 +4,10 @@
 To gain a first principles understanding about how computers fundementally work, I have been working through this book and completing the accompanying projects by Noam Nisan and Shimon Schocken.
 
 Thus far, I have:
-1. [Built basic logic gates from NAND primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Boolean_Logic)
+1. [Implemented basic logic gates from NAND primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Boolean_Logic)
 2. [Implemented Arithmetic Chips](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Boolean_Arithmetic)
-3. [Constructed Registers, RAM16K, and a PC from D Flip Flop Primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Sequential_Logic)
-4. [Constructed CPU and Memory Chips and integrated them into the HACK computer platform](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Computer_Architecture)
+3. [Implemented Registers, RAM16K, and a Program Counter from D Flip Flop Primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Sequential_Logic)
+4. [Implemented CPU and Memory Chips and integrated them into the HACK computer platform](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Computer_Architecture)
 5. [Programmed multiplication and I/O routines in the HACK machine language](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Machine_Language)
 
 ***All from primitive NAND gates and D Flip Flops!***

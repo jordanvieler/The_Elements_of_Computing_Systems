@@ -3,10 +3,17 @@ In this porject, I implemented the arithmetic chips: [HalfAdder](https://github.
 Hardware Description Language. To Implement these chips I used the logic gates and chips I previously implemented in the Boolean Logic Project. Shown below are diagrams of the circuits I constructed.
 
 ## Key Takeaway:
-Complex behavior can be built up from primitive building blocks. Any Boolean function, no matter how complex, can be implementended from a combination of And, Not, 
-and Or given by it's canonical representation. In turn And, Not, and Or can be implemented trivially using NAND primitives.
+Math works just as well in binary (base2) as decimal (base10). Therefore, Circuits can be built from basic logic gates to compute basic functions such as Identity, Negation, Incrementation, Addition, Subtraction, And, Or, etc. These hardware implementated functions can be used as primitive building blocks for more complex computations in software. There is a speed/cost tradeoff involved in the decision to implement a function in hardware or software.
 
 ## Circuit Diagrams:
 
-### Not
-![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Not.png)
+### HalfAdder
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Arithmetic/Images/HalfAdder.png)
+### FullAdder
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Arithmetic/Images/FullAdder.png)
+### Add16
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Arithmetic/Images/Add16.png)
+### Inc16
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Arithmetic/Images/Inc16.png)
+### ALU
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Arithmetic/Images/ALU.png)

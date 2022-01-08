@@ -33,8 +33,8 @@ and Or given by it's canonical representation. In turn And, Not, and Or can be i
 
 ### [Mux4Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### Mux8Way16(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [Mux8Way16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### DMux4Way(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [DMux4Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### DMu8Way(https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [DMu8Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)

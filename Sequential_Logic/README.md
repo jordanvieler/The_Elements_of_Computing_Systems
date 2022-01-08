@@ -18,7 +18,7 @@ Hardware Description Language. To Implement these chips I used D Flip Flops as a
 ### RAM512
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/RAM512.png)
 ### RAM4K
-![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/RAN4K.png)
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/RAM4K.png)
 ### RAM16K
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/RAM16K.png)
 ### PC

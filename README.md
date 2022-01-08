@@ -7,7 +7,7 @@ Thus far, I have completed projects implementing:
 1. [Basic logic gates from NAND primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Boolean_Logic)
 2. [Arithmetic Chips](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Boolean_Arithmetic)
 3. [Registers, RAM16K, and a Program Counter from D Flip Flop Primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Sequential_Logic)
-4. [CPU and Memory Chips and integrated them into the HACK computer platform](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Computer_Architecture)
-5. [Multiplication and I/O routines in the HACK machine language](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Machine_Language)
+4. [Multiplication and I/O routines in the HACK machine language](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Machine_Language)
+5. [CPU and Memory Chips and integrated them into the HACK computer platform](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Computer_Architecture)
 
 ***All from primitive NAND gates and D Flip Flops!***

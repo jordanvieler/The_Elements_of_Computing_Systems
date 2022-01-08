@@ -11,5 +11,3 @@ Thus far, I have completed projects implementing:
 5. [Multiplication and I/O routines in the HACK machine language](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/Machine_Language)
 
 ***All from primitive NAND gates and D Flip Flops!***
-
-This repo serves as an archive of these completed projects.

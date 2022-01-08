@@ -4,4 +4,4 @@ In this project I implemented routines to [multiply](https://github.com/jordanvi
 **For the I/O routine:** screen pixels are activated from left to right and down across the screen in sequential order when any keyboard key is held. When the key is released, the pixels are deactivated in reverese from the last pixel to be activated
 
 ## Key Takeaways:
-
+While cumbersome, assembly language represents the first level of abstraction which enables a human programmer to speak in the language of machines. Furthermore, a limited instruction set can be used to accomplish more complex mathamatical tasks. A computer's machine language and architecture are intimately related.

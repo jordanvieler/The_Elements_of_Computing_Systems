@@ -1,4 +1,4 @@
-# The Elements of Computing-Systems: Building a Modern Computer from First Principles
+# The Elements of Computing Systems: Building a Modern Computer from First Principles
 ## AKA: [Nand2Tetris](https://www.nand2tetris.org/)
 
 To gain a first principles understanding about how computers fundementally work, I have been working through this book by Noam Nisan and Shimon Schocken

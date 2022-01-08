@@ -1,5 +1,5 @@
 # Boolean Logic
-In this porject, I implemented the logic gates Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8way, Mux4Way, Mux8Way16, DMux4Way, and DMux8Way, in 
+In this porject, I implemented the logic gates Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8way, Mux4Way16, Mux8Way16, DMux4Way, and DMux8Way, in 
 Hardware Description Language, from NAND gate primitives. Shown below are diagrams of the circuits I constructed. A gate besides NAND is used in the circuit as an 
 abstraction of it's prior implementation in NAND.
 
@@ -31,8 +31,8 @@ and Or given by it's canonical representation. In turn And, Not, and Or can be i
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Mux16.png)
 ### [Or8way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Or8Way.hdl)
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Or8Way.png)
-### [Mux4Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Mux4Way.hdl)
-![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Not.Mux4Way)
+### [Mux4Way16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Mux4Way16.hdl)
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Not.Mux4Way16.png)
 ### [Mux8Way16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Mux8Way16.hdl)
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Mux8Way16.png)
 ### [DMux4Way](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/DMux4Way.hdl)

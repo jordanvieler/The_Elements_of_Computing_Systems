@@ -7,6 +7,8 @@ Hardware Description Language. To Implement these chips I used D Flip Flops as a
 
 ## Circuit Diagrams:
 
+### Bit
+![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/Bit.png)
 ### Register
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Sequential_Logic/Images/Register.png)
 ### RAM8

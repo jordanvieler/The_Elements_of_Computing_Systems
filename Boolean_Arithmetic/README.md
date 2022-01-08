@@ -3,7 +3,7 @@ In this porject, I implemented the arithmetic chips: [HalfAdder](https://github.
 Hardware Description Language. To Implement these chips I used the logic gates and chips I previously implemented in the Boolean Logic Project. Shown below are diagrams of the circuits I constructed.
 
 ## Key Takeaway:
-Math works just as well in binary (base2) as decimal (base10). Therefore, Circuits can be built from basic logic gates to compute basic functions such as Identity, Negation, Incrementation, Addition, Subtraction, And, Or, etc. These hardware implementated functions can be used as primitive building blocks for more complex computations in software. There is a speed/cost tradeoff involved in the decision to implement a function in hardware or software.
+Math works just as well in binary (base2) as decimal (base10). Therefore, Circuits can be built from basic logic gates to compute basic functions such as Identity, Negation, Incrementation, Addition, Subtraction, And, Or, etc. These hardware implemented functions can be used as primitive building blocks for more complex computations in software. There is a speed/cost tradeoff involved in the decision to implement a function in hardware or software.
 
 ## Circuit Diagrams:
 

@@ -10,7 +10,7 @@ and Or given by it's canonical representation. In turn And, Not, and Or can be i
 ## Circuit Diagrams:
 
 ### [Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Not.hdl)
-![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Not.png)
+![Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/Not.png)
 ### [And](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 ![](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Images/And.png)
 ### [Or](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Or.hdl)

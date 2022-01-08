@@ -9,17 +9,17 @@ and Or given by it's canonical representation. In turn And, Not, and Or can be i
 
 ## Circuit Diagrams:
 
-### [Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Not.hdl)
 
 ### [And](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 
-### [Or](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [Or](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Or.hdl)
 
-### [Xor](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [Xor](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Xor.hdl)
 
-### [Mux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [Mux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Mux.hdl)
 
-### [DMux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
+### [DMux](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/DMux.hdl)
 
 ### [Not16](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/And.hdl)
 

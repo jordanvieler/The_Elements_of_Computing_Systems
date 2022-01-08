@@ -1,5 +1,5 @@
 # Boolean Logic
-In this porject, I implemented the logic gates Not, And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8way, Mux4Way16, Mux8Way16, DMux4Way, and DMux8Way, in 
+In this porject, I implemented the logic gates [Not](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Boolean_Logic/Not.hdl), And, Or, Xor, Mux, DMux, Not16, And16, Or16, Mux16, Or8way, Mux4Way16, Mux8Way16, DMux4Way, and DMux8Way, in 
 Hardware Description Language, from NAND gate primitives. Shown below are diagrams of the circuits I constructed. A gate besides NAND is used in the circuit as an 
 abstraction of it's prior implementation in NAND.
 

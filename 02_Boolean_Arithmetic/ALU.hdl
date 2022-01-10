@@ -1,0 +1,73 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/02/ALU.hdl
+
+/**
+ * The ALU (Arithmetic Logic Unit).
+ * Computes one of the following functions:
+ * x+y, x-y, y-x, 0, 1, -1, x, y, -x, -y, !x, !y,
+ * x+1, y+1, x-1, y-1, x&y, x|y on two 16-bit inputs, 
+ * according to 6 input bits denoted zx,nx,zy,ny,f,no.
+ * In addition, the ALU computes two 1-bit outputs:
+ * if the ALU output == 0, zr is set to 1; otherwise zr is set to 0;
+ * if the ALU output < 0, ng is set to 1; otherwise ng is set to 0.
+ */
+
+// Implementation: the ALU logic manipulates the x and y inputs
+// and operates on the resulting values, as follows:
+// if (zx == 1) set x = 0        // 16-bit constant
+// if (nx == 1) set x = !x       // bitwise not
+// if (zy == 1) set y = 0        // 16-bit constant
+// if (ny == 1) set y = !y       // bitwise not
+// if (f == 1)  set out = x + y  // integer 2's complement addition
+// if (f == 0)  set out = x & y  // bitwise and
+// if (no == 1) set out = !out   // bitwise not
+// if (out == 0) set zr = 1
+// if (out < 0) set ng = 1
+
+CHIP ALU {
+    IN  
+        x[16], y[16],  // 16-bit inputs        
+        zx, // zero the x input?
+        nx, // negate the x input?
+        zy, // zero the y input?
+        ny, // negate the y input?
+        f,  // compute out = x + y (if 1) or x & y (if 0)
+        no; // negate the out output?
+
+    OUT 
+        out[16], // 16-bit output
+        zr, // 1 if (out == 0), 0 otherwise
+        ng; // 1 if (out < 0),  0 otherwise
+
+    PARTS:
+    //zero logic
+    Mux16(a=x, b=false, sel=zx, out=pzx);
+    Mux16(a=y, b=false, sel=zy, out=pzy); //pz = post zero operation
+    //negate logic
+    Not16(in=pzx, out=nex); //ne = negated value
+    Not16(in=pzy, out=ney);
+    Mux16(a=pzx, b=nex, sel=nx, out=pnx); //pnx = post negation operation
+    Mux16(a=pzy, b=ney, sel=ny, out=pny);
+    //function logic
+    And16(a=pnx, b=pny, out=andf);
+    Add16(a=pnx, b=pny, out=addf);
+    Mux16(a=andf, b=addf, sel=f, out=fxy);
+    //negate output logic
+    Not16(in=fxy, out=nfxy); //nfxy = negated output
+    Mux16(a=fxy, b=nfxy, sel=no, out=out, out[15]=ng, out[0..7]=out1, out[8..15]=out2);
+    //zero detection logic
+    Or8Way(in=out1, out=or1); //or 8 way for 1st 8 bits
+    Or8Way(in=out2, out=or2); //or 8 way for 2nd 8 bits
+    Or(a=or1, b=or2, out=or12); //or of all 16 bits
+    Not(in=or12, out=zr);
+    
+    
+    
+    
+    
+
+    
+
+}

@@ -1,5 +1,5 @@
 # Machine Language
-In this project I implemented routines to multiply two integers ([mult.asm](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Machine_Language/Mult.asm)) and an I/O routine ([fill.asm](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/Machine_Language/Fill.asm)) in assembly language for the HACK computer. The assembly language ***.asm*** files were converted to binary ***.hack*** machine language files to be ran on the HACK computer.
+In this project I implemented routines to multiply two integers ([mult.asm](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/04_Machine_Language/Mult.asm)) and an I/O routine ([fill.asm](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/04_Machine_Language/Fill.asm)) in assembly language for the HACK computer. The assembly language ***.asm*** files were converted to binary ***.hack*** machine language files to be ran on the HACK computer.
 
 **I/O routine:** Screen pixels are activated from left to right and down across the screen in sequential order when any keyboard key is held. When the key is released, the pixels are deactivated in reverese from the last pixel to be activated
 

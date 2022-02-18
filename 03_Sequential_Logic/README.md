@@ -3,6 +3,7 @@ In this project, I implemented the sequential logic chips: [Bit](https://github.
 Hardware Description Language. To Implement these chips I used D Flip Flops as a primitive and some of the basic arithmetic chips I implemented previously.
 
 ## Key Takeaways:
+A previous state can be stored in a circuit with a D-Flip-Flop. By combining a D-Flip-Flop with a simple Multiplexor, a bit can be created. A bit can store a binary digit and be updated at will. Registers combine the basic logic of multiple bits to store a word. Multiplexors and Demultiplexors can be used to recusively build larger memory units from registers. A simple Program Counter can provide control flow to a CPU.
 
 
 ## Circuit Diagrams:

@@ -1,6 +1,6 @@
 # Sequential Logic
 In this project, I implemented the sequential logic chips: [Bit](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/Bit.hdl), [Register](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/Register.hdl), [RAM8](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/RAM8.hdl), [RAM64](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/RAM64.hdl), [RAM512](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/RAM512.hdl), [RAM4K](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/RAM4K.hdl), [RAM16K](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/RAM16K.hdl), and a [PC](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/blob/main/03_Sequential_Logic/PC.hdl) (Program Counter), in 
-Hardware Description Language. To Implement these chips I used D Flip Flops as a primitive and basic and arithmetic chips I implemented previously.
+Hardware Description Language. To Implement these chips I used D Flip Flops as a primitive and some of the basic arithmetic chips I implemented previously.
 
 ## Key Takeaways:
 

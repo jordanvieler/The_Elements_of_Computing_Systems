@@ -1,7 +1,7 @@
 # The Elements of Computing Systems: Building a Modern Computer from First Principles
 ## AKA: [Nand2Tetris](https://www.nand2tetris.org/)
 
-To gain a first principles understanding about how computers fundementally work, I have been working through this book by Noam Nisan and Shimon Schocken
+To gain a first principles understanding about how computers work, I have been working through this book by Noam Nisan and Shimon Schocken
 and completing the accompanying projects 
 Thus far, I have completed projects implementing:
 1. [Basic logic gates from NAND primitives](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/01_Boolean_Logic)

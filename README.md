@@ -10,4 +10,4 @@ Thus far, I have completed projects implementing:
 4. [Multiplication and I/O routines in the HACK machine language](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/04_Machine_Language)
 5. [CPU and Memory Chips and integrated them into the HACK computer platform](https://github.com/jordanvieler/The_Elements_of_Computing_Systems/tree/main/05_Computer_Architecture)
 
-***All from primitive NAND gates and D Flip Flops!***
+***All from primitive NAND gates and D Flip Flops***
